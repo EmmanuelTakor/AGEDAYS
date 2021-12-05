@@ -1,0 +1,27 @@
+.Container{
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 75vh;
+    width: 75%;
+}
+.buttonPart {
+    width: 75%;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+img {
+    margin: 1%;
+    height: 10%;
+    width: 10%;
+}
+#subContainer{
+    border: 1px solid red;
+    margin: 0 auto;
+    height: 74vh;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
